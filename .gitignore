@@ -4,6 +4,7 @@ __pycache__/
 build/
 dist/
 wheels/
+edu_fineweb10B/
 *.egg-info
 
 # Virtual environments
